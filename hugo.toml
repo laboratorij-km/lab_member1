@@ -1,0 +1,24 @@
+baseURL = 'https://laboratorij-km.github.io/lab_member1/'
+languageCode = 'en-us'
+title = 'Member 1 Hugo Site'
+theme = "member-theme"
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "https://laboratorij-km.github.io/" # Absolute URL to root site home
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "https://laboratorij-km.github.io/about" # Absolute URL to members list
+    weight = 2
+
+  [[menu.main]]
+    name = "Members"
+    url = "https://laboratorij-km.github.io/members" # Absolute URL to members list
+    weight = 3
+
+  [[menu.main]]
+    name = "Research"
+    url = "https://laboratorij-km.github.io/research" # Absolute URL to research page
+    weight = 4

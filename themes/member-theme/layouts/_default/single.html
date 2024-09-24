@@ -1,0 +1,31 @@
+{{ define "main" }}
+<div class="container my-5">
+  <div class="row">
+    <div class="col-md-8 offset-md-2">
+      <!-- Post Title -->
+      <h1 class="display-4">{{ .Title }}</h1>
+
+      <!-- Post Metadata -->
+      <p class="text-muted">
+        By {{ .Params.author }} on {{ .Date.Format "January 2, 2006" }}
+      </p>
+
+      <!-- Post Content -->
+      <div class="post-content">{{ .Content }}</div>
+
+      <!-- Optional: Display post tags or categories -->
+      {{ if .Params.tags }}
+      <div class="mt-4">
+        <p>
+          <strong>Tags:</strong> {{ range .Params.tags }}<span
+            class="badge badge-secondary"
+            >{{ . }}</span
+          >
+          {{ end }}
+        </p>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}
