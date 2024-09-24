@@ -2,6 +2,9 @@ baseURL = 'https://laboratorij-km.github.io/lab_member1/'
 languageCode = 'en-us'
 title = 'Member 1 Hugo Site'
 theme = "member-theme"
+[params]
+  author = "Lab Member 1"
+  
 [menu]
   [[menu.main]]
     name = "Home"
@@ -19,6 +22,6 @@ theme = "member-theme"
     weight = 3
 
   [[menu.main]]
-    name = "Research"
-    url = "https://laboratorij-km.github.io/research" # Absolute URL to research page
+    name = "Projects"
+    url = "https://laboratorij-km.github.io/projects" # Absolute URL to research page
     weight = 4

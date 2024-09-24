@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Member 1 Hugo Site</title>
-    <link>http://localhost:1313/lkm-site/member1/posts/</link>
+    <link>http://localhost:1313/lab_member1/posts/</link>
     <description>Recent content in Posts on Member 1 Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Sep 2024 15:54:06 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/lkm-site/member1/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Sep 2024 18:34:41 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/lab_member1/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post2</title>
+      <link>http://localhost:1313/lab_member1/posts/post2/</link>
+      <pubDate>Tue, 24 Sep 2024 18:34:41 +0200</pubDate>
+      <guid>http://localhost:1313/lab_member1/posts/post2/</guid>
+      <description>Second Post&#xA;Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit aspernatur odio quibusdam quasi numquam cumque aliquam ex? Quia, dolorem maxime eum optio perferendis hic alias aperiam error tempore animi a dignissimos aspernatur quas commodi id asperiores repudiandae nemo quo totam tempora quisquam? Sequi assumenda sapiente consequatur delectus? Voluptas, porro quasi.&#xA;Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit aspernatur odio quibusdam quasi numquam cumque aliquam ex? Quia, dolorem maxime eum optio perferendis hic alias aperiam error tempore animi a dignissimos aspernatur quas commodi id asperiores repudiandae nemo quo totam tempora quisquam?</description>
+    </item>
     <item>
       <title>Post1</title>
-      <link>http://localhost:1313/lkm-site/member1/posts/post1/post1/</link>
+      <link>http://localhost:1313/lab_member1/posts/post1/</link>
       <pubDate>Mon, 16 Sep 2024 15:54:06 +0200</pubDate>
-      <guid>http://localhost:1313/lkm-site/member1/posts/post1/post1/</guid>
-      <description>Member 1 First post</description>
+      <guid>http://localhost:1313/lab_member1/posts/post1/</guid>
+      <description>First Post&#xA;Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit aspernatur odio quibusdam quasi numquam cumque aliquam ex? Quia, dolorem maxime eum optio perferendis hic alias aperiam error tempore animi a dignissimos aspernatur quas commodi id asperiores repudiandae nemo quo totam tempora quisquam? Sequi assumenda sapiente consequatur delectus? Voluptas, porro quasi.&#xA;Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit aspernatur odio quibusdam quasi numquam cumque aliquam ex? Quia, dolorem maxime eum optio perferendis hic alias aperiam error tempore animi a dignissimos aspernatur quas commodi id asperiores repudiandae nemo quo totam tempora quisquam?</description>
     </item>
   </channel>
 </rss>

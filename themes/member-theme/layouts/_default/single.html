@@ -7,11 +7,14 @@
 
       <!-- Post Metadata -->
       <p class="text-muted">
-        By {{ .Params.author }} on {{ .Date.Format "January 2, 2006" }}
+        By {{ .Site.Params.author }} on {{ .Date.Format "January 2, 2006" }}
       </p>
 
       <!-- Post Content -->
-      <div class="post-content">{{ .Content }}</div>
+      <div class="post-content">
+        {{ .Content }}
+        <a href="{{ "" | relURL }}" class="btn btn-primary mt-4">Back to Bio</a>
+      </div>
 
       <!-- Optional: Display post tags or categories -->
       {{ if .Params.tags }}
@@ -26,6 +29,8 @@
       </div>
       {{ end }}
     </div>
+    
+
   </div>
 </div>
 {{ end }}

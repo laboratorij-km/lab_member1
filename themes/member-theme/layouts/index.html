@@ -49,23 +49,12 @@
         {{ end }}
       </ul>
 
-      <!-- Projects or Publications Section -->
-      <h3 class="h5 mt-4">Selected Publications/Projects</h3>
-      <ul class="list-group list-group-flush">
-        {{ range .Params.projects }}
-        <li class="list-group-item">
-          <a href="{{ .url }}" target="_blank">{{ .title }}</a>
-          <span class="text-muted">({{ .year }})</span>
-        </li>
-        {{ end }}
-      </ul>
-
       <!-- Posts Section -->
       <h3 class="h5 mt-4">Posts by {{ .Title }}</h3>
       <ul class="list-group list-group-flush">
         {{ $memberPosts := where .Site.RegularPages "Params.author" .Title }} {{
-        $sortedPosts := sort $memberPosts "Date" "desc" }} {{ range $sortedPosts
-        }}
+        $sortedPosts := sort .Site.RegularPages "Date" "desc" }} {{ range
+        $sortedPosts }}
         <li class="list-group-item">
           <a href="{{ .Permalink }}">{{ .Title }}</a>
           <span class="text-muted">({{ .Date.Format "Jan 2, 2006" }})</span>

@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/lkm-site/member1/posts/post1/post1/</loc>
+    <loc>http://localhost:1313/lab_member1/posts/post2/</loc>
+    <lastmod>2024-09-24T18:34:41+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/lab_member1/posts/</loc>
+    <lastmod>2024-09-24T18:34:41+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/lab_member1/posts/post1/</loc>
     <lastmod>2024-09-16T15:54:06+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/lkm-site/member1/posts/</loc>
-    <lastmod>2024-09-16T15:54:06+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/lkm-site/member1/</loc>
+    <loc>http://localhost:1313/lab_member1/</loc>
     <lastmod>2024-08-30T14:44:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/lkm-site/member1/categories/</loc>
+    <loc>http://localhost:1313/lab_member1/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/lkm-site/member1/tags/</loc>
+    <loc>http://localhost:1313/lab_member1/tags/</loc>
   </url>
 </urlset>
