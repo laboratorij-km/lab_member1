@@ -8,20 +8,26 @@ theme = "member-theme"
 [menu]
   [[menu.main]]
     name = "Home"
-    url = "https://laboratorij-km.github.io/" # Absolute URL to root site home
+    url = "/" 
     weight = 1
 
   [[menu.main]]
-    name = "About"
-    url = "https://laboratorij-km.github.io/about" # Absolute URL to members list
+    name = "Lecturing"
+    url = "/lecturing/"
     weight = 2
 
   [[menu.main]]
-    name = "Members"
-    url = "https://laboratorij-km.github.io/members" # Absolute URL to members list
+    name = "Scientific work"
+    url = "/cv/"
     weight = 3
 
   [[menu.main]]
-    name = "Projects"
-    url = "https://laboratorij-km.github.io/projects" # Absolute URL to research page
+    name = "Science and spirituality"
+    url = "https://irenaroglic.si/wp-content/uploads/engbio.htm"
     weight = 4
+
+  [[menu.main]]
+    name = "Personal"
+    url = "https://irenaroglic.si/wp-content/uploads/personal.pdf" 
+    weight = 5
+

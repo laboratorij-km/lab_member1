@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecturing on Member 1 Hugo Site</title>
+    <link>http://localhost:1313/lab_member1/lecturing/</link>
+    <description>Recent content in Lecturing on Member 1 Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Aug 2024 14:44:25 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/lab_member1/lecturing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algoritmi in podatkovne strukture 1</title>
+      <link>http://localhost:1313/lab_member1/lecturing/aps1/</link>
+      <pubDate>Fri, 30 Aug 2024 14:44:25 +0200</pubDate>
+      <guid>http://localhost:1313/lab_member1/lecturing/aps1/</guid>
+      <description>Naslov predmeta: Algoritmi in podatkovne strukture I – RI-UNI (Bolonja) ter RM, 2. letnik Predavatelj: prof. dr. Igor Kononenko&#xA;Asistenti: dr. Petar Vračar, dr. Bojan Žunkovič&#xA;Namen predmeta: Izpopolniti in utrditi znanje iz programiranja (predvsem rekruzije) Naučiti se načrtovati algoritme in analizirati njihovo časovno zahtevnost Podati osnovne abstraktne podatkovne tipe in operacije na njih Spoznati osnovne operacije na dinamičnih podatkovnih strukturah: seznamih, drevesih in grafih Okvirna vsebina: Uvod: Pregled predmeta Rekurzija in iteracija (predavano vnaprej zaradi vaj) Časovna zahtevnost algoritmov (asimptotična in dejanski čas) Osnovni abstraktni podatkovni tipi in njihove implementacije: ADT Seznam ADT Množica ADT Sklad ADT Vrsta Rekurzija-iteracija (predavano že prej zaradi vaj) Reševanje problemov z algoritmi Reševanje problemov Pregled preiskovalnih algoritmov Deli in vladaj Strategije iskanja optimalne rešitve Strategije iskanja približne rešitve Stohastični preiskovalni algoritmi Razvoj algoritmov ADT preslikava, zgoščene tabele; preskočni seznami Drevesa: Drevo kot abstraktni podatkovni tip Binarna drevesa, primer izrazna drevesa (tudi kontekstno neodvisne gramatike) ADT slovar Dvojiška iskalna drevesa Rdeče-črna drevesa AVL drevesa B-drevesa ADT prioritetna vrsta; kopica Napredno sortiranje: heapsort ADT disjunktne množice Graf: ADT graf Kritična pot Drevo najkrajših poti Minimalno vpeto drevo Dokazovanje pravilnosti programov: Zančna invarianta Parcialna in totalna pravilnost VAJE Študenti preko e-učilnice sproti rešujejo ob rokih objavljene spletne kolokvije, ki se točkujejo.</description>
+    </item>
+    <item>
+      <title>Strojno Ucenje</title>
+      <link>http://localhost:1313/lab_member1/lecturing/strojno_ucenje/</link>
+      <pubDate>Fri, 30 Aug 2024 14:44:25 +0200</pubDate>
+      <guid>http://localhost:1313/lab_member1/lecturing/strojno_ucenje/</guid>
+      <description>Naslov predmeta: Strojno učenje (magistrski bolonjski študij) Predavatelj: prof. dr. Igor Kononenko&#xA;Asistenta: dr. Petar Vračar, dr. Matej Pičulin&#xA;Osnovni cilj predmeta: Spoznati osnovne principe in metode strojnega učenja&#xA;Vsebina: Pregled metod strojnega učenja (Strojno) učenje in (umetna) inteligenca, zgodnji uspehi strojnega učenja Osnovni principi strojnega učenja in preiskovalni algoritmi za podprobleme strojnega učenja Napredne metode za ocenjevanje atributov Uvod v umetne nevronske mreže: Hopfieldove NN, RBF, večnivojske NN, (samo informativno globoke NN) Nenadzorovano učenje (samo informativno razvrščanje), povezovalna pravila (association rules) Predstavitev znanja (samo informativno ILP), Bayesovsko učenje: Bayesov klasifikator, NB in nenaivni Bayes, semi-naivni Bayes, Bayesovske mreže, TAN Kalibracija verjetnosti in ocenjevanje zanesljivosti posameznih predikcij, kombiniranje algoritmov SU Vizualizacija in razlaga posameznih predikcij Učenje iz podatkovnih tokov, aktivno učenje Osnove teorije naučljivosti neobravnavana področja strojnega učenja in podatkovnega rudarjenja</description>
+    </item>
+    <item>
+      <title>Umetna Inteligenca</title>
+      <link>http://localhost:1313/lab_member1/lecturing/umetna_inteligenca/</link>
+      <pubDate>Fri, 30 Aug 2024 14:44:25 +0200</pubDate>
+      <guid>http://localhost:1313/lab_member1/lecturing/umetna_inteligenca/</guid>
+      <description>Naslov predmeta: Umetna inteligenca – VSŠ (Bolonja) – 2. letnik Predavatelj: prof.dr. Igor Kononenko&#xA;Asistenta: dr. Petar Vračar, dr. Tome Eftimov&#xA;Namen predmeta: Predstaviti metode strojnega učenja in umetne inteligence ter razviti sposobnost njihove praktične uporabe.&#xA;Obveznosti študenta: pravočasno izdelane in pozitivno ocenjene domače naloge (spletni kvizi ter sprotna poročila) pravočasno izdelani in pozitivno ocenjeni obe seminarski raziskovalni nalogi pisni in ustni izpit Ocenjevanje Vaje Študenti preko e-učilnice sproti rešujejo ob rokih objavljene spletne kolokvije, ki se točkujejo.</description>
+    </item>
+  </channel>
+</rss>
